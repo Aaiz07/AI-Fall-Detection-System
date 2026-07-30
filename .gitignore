@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+
+# Logs
+logs/
+
+# Output
+output/
+recording/
+runs/
+
+# Models (optional - if files are very large)
+# *.pt
+
+# System
+.DS_Store
+Thumbs.db
